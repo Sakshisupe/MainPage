@@ -358,7 +358,7 @@ video_html = f"""
                 <img src="https://img.icons8.com/?size=100&id=10117&format=png" alt="Resource Management"/>
                 <p>Crop Yield Predictor</p>
             </a>
-            <a href="https://discuss.streamlit.io/t/getting-an-error-streamlit-is-not-recognized-as-an-internal-or-external-command-operable-program-or-batch-file/361" alt="Sustainability and Environmental Impact" target="_blank" class="menu-item" style="background-color: #808000; transform: rotate(270deg) translate(200px) rotate(-270deg);">
+            <a href="https://supplychainmanagement-h79jhejccckuzmk5mobzyg.streamlit.app/" alt="Sustainability and Environmental Impact" target="_blank" class="menu-item" style="background-color: #808000; transform: rotate(270deg) translate(200px) rotate(-270deg);">
                 <img src="https://img.icons8.com/?size=100&id=25852&format=png" alt="Sustainability and Environmental Impact"/>
                 <p>Supply Chain Management</p>
             </a>
